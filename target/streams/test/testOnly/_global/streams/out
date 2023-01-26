@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(problems.FibTests, org.scalatest.tools.Framework$$anon$1@7f1dd1b7, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFibTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFib[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Perform Fibonacci 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Perform Fibonacci 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Perform Fibonacci 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Perform Fibonacci 71[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Perform Fibonacci 70[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 3 seconds, 325 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 5, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	problems.FibTests[0m

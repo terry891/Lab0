@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/tianshu/Desktop/Local/Codes/590/chisel-tutorial/src/main/scala/problems/Fib.scala:35:32: not found: value fib1[0m
+[0m[[0m[31merror[0m] [0m[0m  io.output := Mux(isOne, 0.U, fib1)[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
